@@ -5647,4 +5647,5 @@ Michael Wong
 - [Tomás Vigouroux](https://github.com/tvigouroux/)
 - [Michał Zemełka](https://github.com/dzemeuksis/)
 - [Imam Fahmi F](https://github.com/imamdev93/)
+- [Dongsung Kim](https://github.com/loopinf)
 - [Christos Panopoulos](https://github.com/ChrisPanopoulos)
